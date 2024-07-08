@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <>
     <h1>Git practice</h1>
-    <p>Este cambio fue realizado desde vs CODE</p>
+    <p>probando git add commit y push </p>
     </>
   );
 }
